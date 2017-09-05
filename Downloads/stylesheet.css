@@ -1,0 +1,162 @@
+body{
+margin: auto;
+background: white;
+}
+header
+{
+background-color:grey;
+width:100%;
+position: fixed;
+}
+
+.container_12
+{
+width:100%;
+}
+
+.head{
+float: left;
+color: red;
+}
+
+.head h1{
+font-size: 70px;
+}
+
+
+nav{
+margin-top;
+color:white;
+float: left;
+}
+
+
+nav li{
+
+display: inline;
+padding right: 0;
+
+
+}
+
+nav ul{
+margin-left:700px;
+margin-top:50px;
+padding-top: 50px;
+}
+
+ul a{
+text-decoration: none;
+color: white;
+}
+
+ul a:hover{
+text-decoration: underline;
+color: cyan;
+}
+
+
+
+.superiorservice h1{
+margin-top:180px;
+}
+.FeaturedSolutions h1
+{
+margin-top:180px;
+}
+.Bankingsector h1
+{
+margin-top:180px;
+}
+
+.service
+{
+
+background:#E5E4E2;
+height:160px;
+}
+
+.service h1
+{
+margin-left:200px;
+padding-top: 40px;
+}
+
+.service p{
+margin-left:200px;
+padding-bottom:50px;
+}
+
+.rightfoot img{
+width: 40px;
+height: 40px;
+margin-top:100px;
+margin-left:20px;
+}
+.wrap1 h1
+{
+margin-left:300px;
+
+}
+
+.image
+{
+margin-left:160px;
+}
+
+.us{
+margin-top:10px;
+float:left;
+background-color: brown;
+margin-left: 30px;
+height:280px;
+color: white;
+}
+
+.investors
+{
+margin-left:60px;
+margin-top:10px;
+background:brown;
+float:left;
+color:white;
+}
+.careers
+{
+margin-left:65px;
+margin-top:10px;
+float:left;
+background: brown;
+color:white;
+}
+.form
+{
+margin-left:85px;
+margin-top:10px;
+float:left;
+background: brown;
+color:white;
+}
+.rightfoot{
+margin-left:10px;
+margin-top:10px;
+background: brown;
+float:left;
+}
+.foot
+{ background-color:brown;
+margin-top:10px;
+height:300px;
+align : left;
+width: 100%;
+float:left;
+margin-left:0;
+color:white;
+}
+
+.img
+{
+margin-top:-80px;
+padding-left:0;
+
+}
